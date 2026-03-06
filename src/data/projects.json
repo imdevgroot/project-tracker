@@ -1,0 +1,306 @@
+﻿[
+    {
+        "name":  "Kanban Board",
+        "url":  "https://barry-kanban.vercel.app",
+        "description":  "Personal kanban for tracking all active tasks across every project. API-backed with drag-and-drop.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "SFS Tracker",
+        "url":  "https://sfs-tracker.vercel.app",
+        "description":  "Instagram shoutout-for-shoutout tracker. Log collabs, track growth, manage partner list.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Outreach Tracker CRM",
+        "url":  "https://outreach-tracker-nupeeks.vercel.app",
+        "description":  "Cold outreach CRM. Track prospects, status, follow-ups, and email history.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "NuPeeks Agency Site",
+        "url":  "https://nupeeks-agency.vercel.app",
+        "description":  "Main agency website for NuPeeks. Services, portfolio, privacy policy and terms.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Invoice Generator",
+        "url":  "https://invoice-gen-rho-flax.vercel.app",
+        "description":  "Generate professional invoices for clients. PDF export, custom line items, multi-currency, discount/tax, PAID stamp, and 4 color themes (blue, teal, purple, slate).",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Client Proposal Generator",
+        "url":  "https://proposal-generator-blue.vercel.app",
+        "description":  "Auto-generate branded client proposals with pricing, timeline, and scope.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "YT Title Generator",
+        "url":  "https://yt-title-gen.vercel.app",
+        "description":  "AI-powered YouTube title generator. Enter topic, get 10 optimized titles.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "YouTube Shorts Script Generator",
+        "url":  "https://shorts-generator-kohl.vercel.app",
+        "description":  "AI-powered YouTube Shorts script generator with 10 niches (Marvel, True Crime, Fitness, Business, Relationships + more), prebuilt scripts for Wolverine, Iron Man, Spider-Man, Magneto, Thanos, and more. Mobile-optimized.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Shorts Image Mapper",
+        "url":  "https://shorts-mapper-nupeeks.vercel.app",
+        "description":  "Maps AI-generated images to YouTube Shorts transcript sentences with timing.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Image Grabber",
+        "url":  "https://image-grabber-nupeeks.vercel.app",
+        "description":  "Web scraper/downloader for batch-saving images by keyword into organized folders.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "AI Blog Service",
+        "url":  "https://blog-service-nupeeks.vercel.app",
+        "description":  "Recurring AI blog content subscription â€” $199/mo. Needs OpenAI key in Vercel env.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Digital Store",
+        "url":  "https://digital-store-nupeeks.vercel.app",
+        "description":  "NuPeeks digital product store with star ratings, social proof, sale banners, and instant checkout via Stripe. 5 premium products.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "NuPeeks CRM",
+        "url":  "https://nupeeks-crm-nupeeks.vercel.app",
+        "description":  "Full client CRM â€” contacts, pipeline, notes, follow-up reminders.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Marvel Encyclopedia",
+        "url":  "https://marvel-wiki-xi.vercel.app",
+        "description":  "Marvel character wiki with 40 characters, Shorts Queue, team filters, and 15 Shorts-Ready characters marked with prebuilt scripts.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Stoic Daily",
+        "url":  "https://stoic-app-one.vercel.app",
+        "description":  "Daily stoic quote app with 140 quotes, journal, library (search, favorites, copy), philosopher profiles, TTS reading, ambient audio, and weekly challenge tracker.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "PokeDex v2",
+        "url":  "https://pokedex-v2-nupeeks.vercel.app",
+        "description":  "Premium Pokedex with 1025 Pokemon, TCG cards, damage calc, speed tiers, type chart, shiny calc, team weakness analyzer, and more.",
+        "category":  "Pokemon",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "PokeDex Supreme",
+        "url":  "https://pokedex-supreme-nupeeks.vercel.app",
+        "description":  "Original Pokedex app â€” v1 before the full v2 rebuild.",
+        "category":  "Pokemon",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Who\u0027s That Pokemon?",
+        "url":  "https://pokemon-guess-nupeeks.vercel.app",
+        "description":  "Silhouette guessing game for all 1025 Pokemon. Score tracking and streaks.",
+        "category":  "Pokemon",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "PokeTeam Builder",
+        "url":  "https://pokemon-team-nupeeks.vercel.app",
+        "description":  "Build and analyze Pokemon teams. Type coverage, weakness analysis, export to Showdown.",
+        "category":  "Pokemon",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Dynamic Plumbers Inglewood",
+        "url":  "https://dynamic-plumbers-inglewood-nupeeks.vercel.app",
+        "description":  "Demo site â€” plumbing niche, Inglewood LA. Navy/orange color scheme. Cold outreach target.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Hair Parlor on 8th",
+        "url":  "https://hair-parlor-on-8th-nupeeks.vercel.app",
+        "description":  "Demo site â€” hair salon niche. Deep purple/violet/pink scheme. Cold outreach target.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-02"
+    },
+    {
+        "name":  "Speedy Plumbing \u0026 Heating",
+        "url":  "https://speedy-plumbing-and-heating-nupeeks.vercel.app",
+        "description":  "Demo site â€” plumbing/heating. Navy/blue/orange. Phone: (424) 401-5342.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-02"
+    },
+    {
+        "name":  "Perfect Nails by Leyla",
+        "url":  "https://perfect-nails-by-leyla-nupeeks.vercel.app",
+        "description":  "Demo site â€” nail salon. Deep violet/rose scheme. Phone: (323) 636-3037.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-02"
+    },
+    {
+        "name":  "Kenia\u0027s House Keeping LLC",
+        "url":  "https://kenias-house-keeping-llc-nupeeks.vercel.app",
+        "description":  "Demo site â€” cleaning service. Teal/cyan scheme. Cold outreach target.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-02"
+    },
+    {
+        "name":  "24/7 Pro-Rooter Plumbing",
+        "url":  "https://247-pro-rooterplumbing-nupeeks.vercel.app",
+        "description":  "Demo site â€” emergency plumbing/rooter. Navy/orange. Cold outreach target.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-02"
+    },
+    {
+        "name":  "LA Plumbing Pros",
+        "url":  "https://la-plumbing-pros-nupeeks.vercel.app",
+        "description":  "Demo site â€” plumbing, LA-wide service area. Navy/blue/orange scheme.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-03"
+    },
+    {
+        "name":  "Westside Plumbing And Rooter",
+        "url":  "https://westside-plumbing-and-rooter-nupeeks.vercel.app",
+        "description":  "Demo site â€” plumbing/rooter, Westside LA focus. Navy/orange scheme.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-03"
+    },
+    {
+        "name":  "Arreaga\u0027s House Cleaning",
+        "url":  "https://arreagas-house-cleaning-nupeeks.vercel.app",
+        "description":  "Demo site â€” cleaning service. Teal/cyan. No website â€” text outreach target. (424) 497-5721.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-04"
+    },
+    {
+        "name":  "AD Electrician Los Angeles",
+        "url":  "https://ad-electrician-la-nupeeks.vercel.app",
+        "description":  "Demo site â€” electrician. Blue/yellow. No website â€” text outreach target. (310) 601-8096.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-04"
+    },
+    {
+        "name":  "Gonzalez \u0026 Sons Landscaping",
+        "url":  "https://gonzalez-sons-landscaping-nupeeks.vercel.app",
+        "description":  "Demo site â€” landscaping. Green/lime. No website â€” text outreach target. (323) 428-2781.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-04"
+    },
+    {
+        "name":  "Melrose Auto Repair",
+        "url":  "https://melrose-auto-repair-nupeeks.vercel.app",
+        "description":  "Demo site â€” auto repair. Red/orange. No website â€” text outreach target. (323) 665-0411.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-04"
+    },
+    {
+        "name":  "Las Islas Marias Compton",
+        "url":  "https://las-islas-marias-nupeeks.vercel.app",
+        "description":  "Demo site â€” Mexican restaurant. Amber/red. No website â€” text outreach target. (310) 635-0446.",
+        "category":  "Client Sites",
+        "status":  "Live",
+        "added":  "2026-03-04"
+    },
+    {
+        "name":  "Lead Gen Pipeline",
+        "url":  "https://dynamic-plumbers-inglewood-nupeeks.vercel.app",
+        "description":  "Backend pipeline: Google Places scraper, bad-site detector, site generator, Vercel deployer, Gmail emailer, Twilio texter.",
+        "category":  "Lead Gen",
+        "status":  "Live",
+        "added":  "2026-03-01"
+    },
+    {
+        "name":  "Hashtag Generator",
+        "url":  "https://hashtag-generator-three.vercel.app",
+        "description":  "Generate tiered Instagram hashtag sets by niche â€” broad, medium, and niche tags. 12 niches, 3 tiers, copy with one click.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-05"
+    },
+    {
+        "name":  "Email Subject Line Generator",
+        "url":  "https://email-subject-ke5ktk7t3-imdevgroot-1178s-projects.vercel.app",
+        "description":  "Generate cold email subject lines that get opened. Select industry + goal, get 10 optimized subjects with character count checks.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-05"
+    },
+    {
+        "name":  "Social Media Bio Generator",
+        "url":  "https://bio-generator-jyk7xpnx9-imdevgroot-1178s-projects.vercel.app",
+        "description":  "Generate optimized bios for Instagram, Twitter/X, TikTok, and LinkedIn. Keywords in, 5 polished bios out with character limits.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-05"
+    },
+    {
+        "name":  "Content Idea Generator",
+        "url":  "https://content-idea-mwh95u6tl-imdevgroot-1178s-projects.vercel.app",
+        "description":  "Generate 30 content ideas for any social platform and niche. Save favorites, export as text. Instagram, YouTube, TikTok, LinkedIn.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-05"
+    },
+    {
+        "name":  "Client Onboarding Kit Generator",
+        "url":  "https://client-onboarding-7i1nobrgo-imdevgroot-1178s-projects.vercel.app",
+        "description":  "Generate a ready-to-send welcome email and interactive onboarding checklist for any project type. Agency + client task split view.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-05"
+    }
+]
