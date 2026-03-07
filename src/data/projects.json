@@ -302,5 +302,13 @@
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-05"
+    },
+    {
+        "name":  "Instagram Caption Generator",
+        "url":  "https://ig-caption-gen-nupeeks.vercel.app",
+        "description":  "Generate engaging Instagram captions for any niche. Pick a tone, drop in your topic, get 5 ready-to-post captions with hashtags.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-06"
     }
 ]
