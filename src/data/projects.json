@@ -1,8 +1,8 @@
-﻿[
+[
     {
         "name":  "Kanban Board",
         "url":  "https://barry-kanban.vercel.app",
-        "description":  "Personal kanban for tracking all active tasks across every project. API-backed with drag-and-drop.",
+        "description":  "Personal kanban for tracking all active tasks. Drag-and-drop, swimlanes, progress bars. Collapse-all / Expand-all swimlane controls, JSON export button, empty column click-to-add, modal edit/delete.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -10,7 +10,7 @@
     {
         "name":  "SFS Tracker",
         "url":  "https://sfs-tracker.vercel.app",
-        "description":  "Instagram shoutout-for-shoutout tracker. Log collabs, track growth, manage partner list.",
+        "description":  "Instagram SFS tracker. Log collabs, track follower gains, top partners leaderboard. CSV export, search/filter log. Mar 16: Full SVG icon system replacing all corrupted UTF-8 emojis, Best Niche insight card, This Month stat, star rating SVG in form, arrow/delete icons.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -18,7 +18,7 @@
     {
         "name":  "Outreach Tracker CRM",
         "url":  "https://outreach-tracker-nupeeks.vercel.app",
-        "description":  "Cold outreach CRM. Track prospects, status, follow-ups, and email history.",
+        "description":  "Cold outreach CRM. Track prospects, status, follow-ups, and revenue. SVG icons, skeleton loading, archive toggle, conversion rate stat, improved empty state and mobile.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -26,7 +26,7 @@
     {
         "name":  "NuPeeks Agency Site",
         "url":  "https://nupeeks-agency.vercel.app",
-        "description":  "Main agency website for NuPeeks. Services, portfolio, privacy policy and terms.",
+        "description":  "Main agency website for NuPeeks. Services, portfolio, privacy policy and terms. SVG service and industry icons, new How It Works process section (4 steps).",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -34,7 +34,7 @@
     {
         "name":  "Invoice Generator",
         "url":  "https://invoice-gen-rho-flax.vercel.app",
-        "description":  "Generate professional invoices for clients. PDF export, custom line items, multi-currency, discount/tax, PAID stamp, and 4 color themes (blue, teal, purple, slate).",
+        "description":  "Generate professional invoices for clients. PDF export, custom line items, multi-currency (USD/EUR/GBP/CAD/AUD), discount/tax, PAID stamp, 5 color themes, brand name field, phone field, signature field, comma-formatted numbers.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -42,7 +42,7 @@
     {
         "name":  "Client Proposal Generator",
         "url":  "https://proposal-generator-blue.vercel.app",
-        "description":  "Auto-generate branded client proposals with pricing, timeline, and scope.",
+        "description":  "Auto-generate branded client proposals with pricing, timeline, and scope. Mobile tab toggle (Form/Preview), SVG icons, improved mobile UX.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -50,7 +50,7 @@
     {
         "name":  "YT Title Generator",
         "url":  "https://yt-title-gen.vercel.app",
-        "description":  "AI-powered YouTube title generator. Enter topic, get 10 optimized titles.",
+        "description":  "YouTube title generator � 8 proven formats, instant, no AI needed. SVG icons throughout, Clear all formats button, improved color-coded char length legend.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -58,7 +58,7 @@
     {
         "name":  "YouTube Shorts Script Generator",
         "url":  "https://shorts-generator-kohl.vercel.app",
-        "description":  "AI-powered YouTube Shorts script generator with 10 niches (Marvel, True Crime, Fitness, Business, Relationships + more), prebuilt scripts for Wolverine, Iron Man, Spider-Man, Magneto, Thanos, and more. Mobile-optimized.",
+        "description":  "AI-powered YouTube Shorts script generator. 12 niches, prebuilt scripts for Marvel/Anime/Horror. Library search + niche filter. Mar 16: SVG icon replaces emoji in Generate button and empty state, runtime estimate badge on every library card.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -74,7 +74,7 @@
     {
         "name":  "Image Grabber",
         "url":  "https://image-grabber-nupeeks.vercel.app",
-        "description":  "Web scraper/downloader for batch-saving images by keyword into organized folders.",
+        "description":  "Batch image downloader. URL scraper + Pexels search. SVG icons throughout, tab count badges, Ctrl+A select-all, download history, ZIP export. Mar 16: SVG download/warning/trash icons, photographer label cleanup.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -82,7 +82,7 @@
     {
         "name":  "AI Blog Service",
         "url":  "https://blog-service-nupeeks.vercel.app",
-        "description":  "Recurring AI blog content subscription â€” $199/mo. Needs OpenAI key in Vercel env.",
+        "description":  "Recurring AI blog content subscription � $199/mo. Demo generates real posts. Topic suggestion chips by niche, word count display, meta char counter, Export .txt button, animated loading skeleton. Needs OpenAI key in Vercel env.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -90,7 +90,7 @@
     {
         "name":  "Digital Store",
         "url":  "https://digital-store-nupeeks.vercel.app",
-        "description":  "NuPeeks digital product store with star ratings, social proof, sale banners, and instant checkout via Stripe. 5 premium products.",
+        "description":  "NuPeeks digital product store. Category filter tabs (All/Marketing/Finance/AI+more), bundle deal section ($29 saves $33), email capture with 20% off incentive, category tags on product cards, star ratings, instant Stripe checkout.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -98,7 +98,7 @@
     {
         "name":  "NuPeeks CRM",
         "url":  "https://nupeeks-crm-nupeeks.vercel.app",
-        "description":  "Full client CRM â€” contacts, pipeline, notes, follow-up reminders.",
+        "description":  "Full client CRM — contacts, pipeline, notes, follow-up reminders.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -106,7 +106,7 @@
     {
         "name":  "Marvel Encyclopedia",
         "url":  "https://marvel-wiki-xi.vercel.app",
-        "description":  "Marvel character wiki with 40 characters, Shorts Queue, team filters, and 15 Shorts-Ready characters marked with prebuilt scripts.",
+        "description":  "Marvel character wiki with 40+ characters, Shorts Queue, team filters, Sort by Power, Random Character picker. Mar 16: Full SVG icon system � FilmIcon/CheckIcon on cards, SVG filter buttons (Zap/Film/Sort/Dice), SVG team icons replacing emojis on homepage.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -114,7 +114,7 @@
     {
         "name":  "Stoic Daily",
         "url":  "https://stoic-app-one.vercel.app",
-        "description":  "Daily stoic quote app with 140 quotes, journal, library (search, favorites, copy), philosopher profiles, TTS reading, ambient audio, and weekly challenge tracker.",
+        "description":  "Daily stoic quote app with 140 quotes, journal (word count, .md + .txt export), library (Random Quote, Twitter share, favorites), philosopher profiles, TTS, ambient audio, weekly challenge tracker. Today\u0027s Practice summary bar on homepage.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -130,7 +130,7 @@
     {
         "name":  "PokeDex Supreme",
         "url":  "https://pokedex-supreme-nupeeks.vercel.app",
-        "description":  "Original Pokedex app â€” v1 before the full v2 rebuild.",
+        "description":  "Original Pok�dex app � 1025 Pok�mon, type filters, gen tabs, shiny mode, favorites, compare mode. SVG icons, sort dropdown. Mar 16: New hero section with gradient header, pokeball SVG icon, stat bar (1,025/9 Gens/18 Types/Compare), replaces blank page start.",
         "category":  "Pokemon",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -138,7 +138,7 @@
     {
         "name":  "Who\u0027s That Pokemon?",
         "url":  "https://pokemon-guess-nupeeks.vercel.app",
-        "description":  "Silhouette guessing game for all 1025 Pokemon. Score tracking and streaks.",
+        "description":  "Silhouette guessing game for all 1025 Pokemon. Daily + Classic modes, difficulty picker, streak counter on wins, Pok�dex # + type display on reveal.",
         "category":  "Pokemon",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -154,7 +154,7 @@
     {
         "name":  "Dynamic Plumbers Inglewood",
         "url":  "https://dynamic-plumbers-inglewood-nupeeks.vercel.app",
-        "description":  "Demo site â€” plumbing niche, Inglewood LA. Navy/orange color scheme. Cold outreach target.",
+        "description":  "Demo site — plumbing niche, Inglewood LA. Navy/orange color scheme. Cold outreach target.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -162,7 +162,7 @@
     {
         "name":  "Hair Parlor on 8th",
         "url":  "https://hair-parlor-on-8th-nupeeks.vercel.app",
-        "description":  "Demo site â€” hair salon niche. Deep purple/violet/pink scheme. Cold outreach target.",
+        "description":  "Demo site — hair salon niche. Deep purple/violet/pink scheme. Cold outreach target.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-02"
@@ -170,7 +170,7 @@
     {
         "name":  "Speedy Plumbing \u0026 Heating",
         "url":  "https://speedy-plumbing-and-heating-nupeeks.vercel.app",
-        "description":  "Demo site â€” plumbing/heating. Navy/blue/orange. Phone: (424) 401-5342.",
+        "description":  "Demo site — plumbing/heating. Navy/blue/orange. Phone: (424) 401-5342.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-02"
@@ -178,7 +178,7 @@
     {
         "name":  "Perfect Nails by Leyla",
         "url":  "https://perfect-nails-by-leyla-nupeeks.vercel.app",
-        "description":  "Demo site â€” nail salon. Deep violet/rose scheme. Phone: (323) 636-3037.",
+        "description":  "Demo site — nail salon. Deep violet/rose scheme. Phone: (323) 636-3037.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-02"
@@ -186,7 +186,7 @@
     {
         "name":  "Kenia\u0027s House Keeping LLC",
         "url":  "https://kenias-house-keeping-llc-nupeeks.vercel.app",
-        "description":  "Demo site â€” cleaning service. Teal/cyan scheme. Cold outreach target.",
+        "description":  "Demo site — cleaning service. Teal/cyan scheme. Cold outreach target.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-02"
@@ -194,7 +194,7 @@
     {
         "name":  "24/7 Pro-Rooter Plumbing",
         "url":  "https://247-pro-rooterplumbing-nupeeks.vercel.app",
-        "description":  "Demo site â€” emergency plumbing/rooter. Navy/orange. Cold outreach target.",
+        "description":  "Demo site — emergency plumbing/rooter. Navy/orange. Cold outreach target.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-02"
@@ -202,7 +202,7 @@
     {
         "name":  "LA Plumbing Pros",
         "url":  "https://la-plumbing-pros-nupeeks.vercel.app",
-        "description":  "Demo site â€” plumbing, LA-wide service area. Navy/blue/orange scheme.",
+        "description":  "Demo site — plumbing, LA-wide service area. Navy/blue/orange scheme.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-03"
@@ -210,7 +210,7 @@
     {
         "name":  "Westside Plumbing And Rooter",
         "url":  "https://westside-plumbing-and-rooter-nupeeks.vercel.app",
-        "description":  "Demo site â€” plumbing/rooter, Westside LA focus. Navy/orange scheme.",
+        "description":  "Demo site — plumbing/rooter, Westside LA focus. Navy/orange scheme.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-03"
@@ -218,7 +218,7 @@
     {
         "name":  "Arreaga\u0027s House Cleaning",
         "url":  "https://arreagas-house-cleaning-nupeeks.vercel.app",
-        "description":  "Demo site â€” cleaning service. Teal/cyan. No website â€” text outreach target. (424) 497-5721.",
+        "description":  "Demo site — cleaning service. Teal/cyan. No website — text outreach target. (424) 497-5721.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-04"
@@ -226,7 +226,7 @@
     {
         "name":  "AD Electrician Los Angeles",
         "url":  "https://ad-electrician-la-nupeeks.vercel.app",
-        "description":  "Demo site â€” electrician. Blue/yellow. No website â€” text outreach target. (310) 601-8096.",
+        "description":  "Demo site — electrician. Blue/yellow. No website — text outreach target. (310) 601-8096.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-04"
@@ -234,7 +234,7 @@
     {
         "name":  "Gonzalez \u0026 Sons Landscaping",
         "url":  "https://gonzalez-sons-landscaping-nupeeks.vercel.app",
-        "description":  "Demo site â€” landscaping. Green/lime. No website â€” text outreach target. (323) 428-2781.",
+        "description":  "Demo site — landscaping. Green/lime. No website — text outreach target. (323) 428-2781.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-04"
@@ -242,7 +242,7 @@
     {
         "name":  "Melrose Auto Repair",
         "url":  "https://melrose-auto-repair-nupeeks.vercel.app",
-        "description":  "Demo site â€” auto repair. Red/orange. No website â€” text outreach target. (323) 665-0411.",
+        "description":  "Demo site — auto repair. Red/orange. No website — text outreach target. (323) 665-0411.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-04"
@@ -250,7 +250,7 @@
     {
         "name":  "Las Islas Marias Compton",
         "url":  "https://las-islas-marias-nupeeks.vercel.app",
-        "description":  "Demo site â€” Mexican restaurant. Amber/red. No website â€” text outreach target. (310) 635-0446.",
+        "description":  "Demo site — Mexican restaurant. Amber/red. No website — text outreach target. (310) 635-0446.",
         "category":  "Client Sites",
         "status":  "Live",
         "added":  "2026-03-04"
@@ -266,7 +266,7 @@
     {
         "name":  "Hashtag Generator",
         "url":  "https://hashtag-generator-three.vercel.app",
-        "description":  "Generate tiered Instagram hashtag sets by niche â€” broad, medium, and niche tags. 12 niches, 3 tiers, copy with one click.",
+        "description":  "Generate tiered Instagram hashtag sets by niche — broad, medium, and niche tags. 12 niches, 3 tiers, copy with one click.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-05"
@@ -310,5 +310,456 @@
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-06"
+    },
+    {
+        "name":  "Hashtag Generator",
+        "url":  "https://hashtag-gen-nupeeks.vercel.app",
+        "description":  "Generate 30 tiered Instagram hashtags by niche. Broad, medium, and niche-level hashtags with copy-all functionality.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "Social Media Bio Generator v2",
+        "url":  "https://social-bio-gen-nupeeks.vercel.app",
+        "description":  "Generate platform-optimized bios for Instagram, Twitter/X, TikTok, LinkedIn, and YouTube. 3 variations per click with char limits.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "QR Code Generator",
+        "url":  "https://qr-code-gen-nupeeks.vercel.app",
+        "description":  "Generate QR codes for URLs, text, and WiFi. Custom colors, size, error correction, and PNG download.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "Daily Habit Tracker",
+        "url":  "https://habit-tracker-nupeeks.vercel.app",
+        "description":  "Track daily habits with streaks and 7-day history. LocalStorage persistence, emoji support, completion stats.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "NBA Stats Tracker",
+        "url":  "https://nba-stats-nupeeks.vercel.app",
+        "description":  "2024-25 NBA standings, stat leaders (Pts/Reb/Ast/Stl/Blk), and all 30 teams. East/West splits, playoff line, live team data.",
+        "category":  "Fun \u0026 Portfolio",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "Email Subject Line Generator",
+        "url":  "https://email-subject-gen-nupeeks.vercel.app",
+        "description":  "Generate cold email subject lines by industry and goal. 10 variations, copy with one click.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-08"
+    },
+    {
+        "name":  "Content Idea Generator",
+        "url":  "https://content-idea-gen-nupeeks.vercel.app",
+        "description":  "30 content ideas by platform and niche. Filter by type, save favorites to local list.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-08"
+    },
+    {
+        "name":  "Client Onboarding Kit Generator",
+        "url":  "https://onboarding-kit-gen-nupeeks.vercel.app",
+        "description":  "Generate complete client onboarding package: checklist, welcome email, kickoff questions.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-08"
+    },
+    {
+        "name":  "Testimonial Request Email Generator",
+        "url":  "https://testimonial-email-gen-nupeeks.vercel.app",
+        "description":  "5 review request email templates (casual to professional) for any platform. 1-click copy.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-08"
+    },
+    {
+        "name":  "Cold DM Script Generator",
+        "url":  "https://cold-dm-gen-nupeeks.vercel.app",
+        "description":  "Instagram cold DM scripts by niche and offer. 6 opener styles with copy buttons and tips.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-08"
+    },
+    {
+        "name":  "BreakDown",
+        "url":  "https://breakdown-nupeeks.vercel.app",
+        "description":  "Digital wellness screen time audit. Input screen time by category, get a health score 0-100, benchmark comparison, and action plan.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "MeetMath",
+        "url":  "https://meetmath-nupeeks.vercel.app",
+        "description":  "Real-time meeting cost ticker. Add attendees and salary ranges, hit Start, watch money burn live. Shows what you could have bought instead.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "ClearDebt",
+        "url":  "https://cleardebt-nupeeks.vercel.app",
+        "description":  "Debt payoff planner with Avalanche vs Snowball toggle, real amortization math, extra payment slider, CSS timeline chart, and color-coded debt cards.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "VibeSync",
+        "url":  "https://vibesync-nupeeks.vercel.app",
+        "description":  "Pick your mood, get curated recs: music genre, anime, quote, activity, and color palette. Aurora gradient shifts by mood. 8 moods.",
+        "category":  "Fun \u0026 Portfolio",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "Real Talk",
+        "url":  "https://real-talk-nupeeks.vercel.app",
+        "description":  "Life dilemmas Would You Rather with community vote splits. 15 dilemmas, category filters, local vote persistence.",
+        "category":  "Fun \u0026 Portfolio",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "Frieren Fan Site",
+        "url":  "https://frieren-site-nupeeks.vercel.app",
+        "description":  "Frieren: Beyond Journey\u0027s End fan site. Light cream theme, parallax hero, 3D tilt character cards via Jikan API, magic system, story arcs, quotes carousel, custom cursor.",
+        "category":  "Fun \u0026 Portfolio",
+        "status":  "Live",
+        "added":  "2026-03-07"
+    },
+    {
+        "name":  "Link-in-Bio Builder",
+        "url":  "https://link-in-bio-builder-nupeeks.vercel.app",
+        "description":  "Build your personal Linktree-style page with custom themes, drag-to-reorder links, live preview, and one-click HTML export.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "portfolio",
+                     "builder"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-09"
+    },
+    {
+        "name":  "A/B Copy Tester",
+        "url":  "https://ab-copy-tester-nupeeks.vercel.app",
+        "description":  "Compare two versions of marketing copy with real computed metrics: Flesch-Kincaid readability, hook strength, power words, CTA scoring, and winner recommendation.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "marketing",
+                     "copywriting"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-09"
+    },
+    {
+        "name":  "Budget Calculator",
+        "url":  "https://budget-calculator-nupeeks.vercel.app",
+        "description":  "Monthly budget tracker with SVG donut chart, 6 default expense categories plus custom categories, savings rate indicator, and color-coded over/under budget display.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "finance",
+                     "calculator"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-09"
+    },
+    {
+        "name":  "Anime Quote Generator",
+        "url":  "https://anime-quote-gen-nupeeks.vercel.app",
+        "description":  "70+ iconic quotes from 13 anime series. Filter by show, random quote, Twitter share, favorites tab with review mode.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "fun",
+                     "anime",
+                     "quotes"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-09"
+    },
+    {
+        "name":  "Word of the Day",
+        "url":  "https://word-of-day-nupeeks.vercel.app",
+        "description":  "365 vocabulary words with deterministic daily selection, phonetic pronunciation, etymology, examples, 7-day history navigation, and vocabulary list with review mode.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "education",
+                     "vocabulary"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-09"
+    },
+    {
+        "name":  "ReadLog",
+        "url":  "https://readlog-nupeeks.vercel.app",
+        "description":  "Book tracker powered by Google Books API. Search any book, add to Reading / Want to Read / Finished shelves, track current page, rate with stars, write notes. Reading stats dashboard with shelf counts and progress.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "books",
+                     "reading"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-10"
+    },
+    {
+        "name":  "StarCard",
+        "url":  "https://starcard-nupeeks.vercel.app",
+        "description":  "Enter your birth date and get your full cosmic identity card: zodiac sign with traits/dates/element, moon phase with meaning, life path numerology, archetype, birthstone, and season. Shareable card with color-coded accent by sign.",
+        "category":  "Fun \u0026 Portfolio",
+        "tags":  [
+                     "fun",
+                     "astrology",
+                     "personality"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-10"
+    },
+    {
+        "name":  "TimeVault",
+        "url":  "https://timevault-nupeeks.vercel.app",
+        "description":  "Digital time capsule app. Write a message, set a future unlock date, and seal it. Countdown timer shows days remaining. Messages unlock on their date and can be archived after reading. Persists in localStorage.",
+        "category":  "Fun \u0026 Portfolio",
+        "tags":  [
+                     "fun",
+                     "creative",
+                     "personal"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-10"
+    },
+    {
+        "name":  "ResumeMatch",
+        "url":  "https://resumematch-nupeeks.vercel.app",
+        "description":  "Resume keyword match scorer. Paste your resume and a job description, get an instant match percentage based on keyword overlap analysis, with matched vs missing keyword breakdown and improvement suggestions.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "career",
+                     "resume"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-10"
+    },
+    {
+        "name":  "SplitIt",
+        "url":  "https://splitit-nupeeks.vercel.app",
+        "description":  "Bill splitter and tip calculator. Add items per person, choose tip percentage, split equally or by item. Color-coded per-person totals, running grand total, clear breakdown view.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "finance",
+                     "calculator"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-10"
+    },
+    {
+        "name":  "PokePortal v3",
+        "url":  "https://pokedex-v3-nupeeks.vercel.app",
+        "description":  "Deep-violet Pok�mon portal with 1025 Pok�dex, Pok�opia game page, FireRed \u0026 LeafGreen page, dynamic news system with 8 articles, W\u0026W special Pikachus, and full redesigned homepage with violet/pink/teal palette.",
+        "category":  "Pokemon",
+        "tags":  [
+                     "pokemon",
+                     "fan-site",
+                     "portal"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-10"
+    },
+    {
+        "name":  "FocusFlow",
+        "url":  "https://focusflow-nupeeks.vercel.app",
+        "description":  "Pomodoro timer with circular progress ring, task list with pomo counts, daily session tracking, 4-session cycle dots, short and long break modes, and daily focus stats history.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "productivity",
+                     "pomodoro",
+                     "focus",
+                     "timer"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-11"
+    },
+    {
+        "name":  "PaletteForge",
+        "url":  "https://paletteforge-nupeeks.vercel.app",
+        "description":  "Color palette generator supporting complementary, analogous, triadic, and monochromatic schemes. Color picker, hex input, presets, expandable swatches, click-to-copy, save palettes.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "design",
+                     "color",
+                     "palette",
+                     "generator"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-11"
+    },
+    {
+        "name":  "MoodMap",
+        "url":  "https://moodmap-nupeeks.vercel.app",
+        "description":  "Daily mood tracker with 5-level emoji check-in, notes, streak counter, monthly calendar heatmap, mood distribution bar chart, and recent entry history. All data stored locally.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "mood",
+                     "wellness",
+                     "tracker",
+                     "journal"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-11"
+    },
+    {
+        "name":  "WordSmith",
+        "url":  "https://wordsmith-nupeeks.vercel.app",
+        "description":  "Vocabulary builder with 20 curated words, daily rotating word with definition/etymology/examples/synonyms, full library with bookmark and learned tracking, and a flashcard quiz mode.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "vocabulary",
+                     "learning",
+                     "quiz",
+                     "words"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-11"
+    },
+    {
+        "name":  "NetWorth",
+        "url":  "https://networth-nupeeks.vercel.app",
+        "description":  "Personal net worth tracker with asset and liability management, category breakdowns with progress bars, historical snapshot system, and all data stored locally in browser.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "finance",
+                     "networth",
+                     "tracker",
+                     "money"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-11"
+    },
+    {
+        "name":  "FlashStack",
+        "url":  "https://flashstack-jade.vercel.app",
+        "description":  "Spaced repetition flashcard app. Create decks, add front/back cards, flip to reveal answers, rate each card (Hard/Good/Easy) using SM-2 algorithm. Tracks due dates per card, mastery progress, and daily due count per deck.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "learning",
+                     "flashcards",
+                     "spaced-repetition"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-13"
+    },
+    {
+        "name":  "PixelDrop",
+        "url":  "https://pixeldrop-rose.vercel.app",
+        "description":  "CSS gradient wallpaper generator with 20+ named presets (Sunset, Aurora, Neon, etc). Custom color stops (2-5), gradient type selector (linear/radial/conic), angle control, download as 1920x1080 PNG, copy CSS code, save favorites.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "design",
+                     "gradient",
+                     "wallpaper"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-13"
+    },
+    {
+        "name":  "LifeScore",
+        "url":  "https://lifescore-lake.vercel.app",
+        "description":  "Wheel of Life assessment tool. Score 8 life areas (Career, Finance, Health, Relationships, Personal Growth, Fun, Environment, Family) on 0-10 sliders. Live SVG radar chart, letter grade, strongest/weakest area insights, save and compare history.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "wellness",
+                     "assessment",
+                     "radar-chart"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-13"
+    },
+    {
+        "name":  "CountdownHub",
+        "url":  "https://countdownhub-nu.vercel.app",
+        "description":  "Multi-event countdown timer dashboard. Live D:H:M:S countdowns for unlimited events. Color-coded urgency (red \u003c24h, yellow \u003c7d, green). Preset events, emoji + custom color picker, expired events section, shareable countdown URLs.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "countdown",
+                     "timer",
+                     "productivity"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-13"
+    },
+    {
+        "name":  "DreamBoard",
+        "url":  "https://dreamboard-five.vercel.app",
+        "description":  "Digital vision board for goal tracking. 6 categories (Career/Finance/Health/Travel/Personal/Relationships), grid and Kanban views, milestone checklists, goal status (Not Started/In Progress/Done), completion celebration animation, progress bar.",
+        "category":  "Tools \u0026 Apps",
+        "tags":  [
+                     "tool",
+                     "goals",
+                     "vision-board",
+                     "productivity"
+                 ],
+        "status":  "Live",
+        "added":  "2026-03-13"
+    },
+    {
+        "name":  "MindDump",
+        "url":  "https://minddump-nupeeks.vercel.app",
+        "description":  "Brain dump and quick capture tool. Tag thoughts as work/personal/idea/todo. Search, filter, export as text. Local storage.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-16"
+    },
+    {
+        "name":  "SkillTree",
+        "url":  "https://skilltree-nupeeks.vercel.app",
+        "description":  "Learning tracker. Add skills by category (tech/business/creative/health), set target hours, log sessions, visual progress bars, total hours dashboard.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-16"
+    },
+    {
+        "name":  "TripPlanner",
+        "url":  "https://tripplanner-nupeeks.vercel.app",
+        "description":  "Trip itinerary builder. Create trips with destination and dates, add day-by-day activities with time and notes, export full itinerary as text.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-16"
+    },
+    {
+        "name":  "AffirmDaily",
+        "url":  "https://affirmdaily-nupeeks.vercel.app",
+        "description":  "Daily affirmations app. 52+ built-in affirmations by category (confidence/abundance/health/growth), today\u0027s pick on load, favorites, streak counter, custom add.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-16"
+    },
+    {
+        "name":  "ChoreBoard",
+        "url":  "https://choreboard-nupeeks.vercel.app",
+        "description":  "Household chore gamification. Add chores with point values, check them off, earn points, rank up (Rookie to Legend), weekly reset with score history.",
+        "category":  "Tools \u0026 Apps",
+        "status":  "Live",
+        "added":  "2026-03-16"
     }
 ]
