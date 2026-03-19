@@ -26,7 +26,7 @@
     {
         "name":  "NuPeeks Agency Site",
         "url":  "https://nupeeks-agency.vercel.app",
-        "description":  "Main agency website for NuPeeks. Services, portfolio, privacy policy and terms. SVG service and industry icons, new How It Works process section (4 steps).",
+        "description":  "Main agency website for NuPeeks. Services, portfolio, privacy policy and terms. SVG service and industry icons, How It Works section. Mar 18: Testimonials section (3 client reviews with star ratings), FAQ accordion (6 Q\u0026As), \u0027use client\u0027 + useState for interactive FAQ.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -50,7 +50,7 @@
     {
         "name":  "YT Title Generator",
         "url":  "https://yt-title-gen.vercel.app",
-        "description":  "YouTube title generator ï¿½ 8 proven formats, instant, no AI needed. SVG icons throughout, Clear all formats button, improved color-coded char length legend.",
+        "description":  "YouTube title generator ï¿½ 8 proven formats, instant, no AI needed. SVG icons, format pills, char length legend. Mar 18: Virality score badge (0-10) on every generated title, Recent Topics history (localStorage, last 5), clock icon on history chips.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -82,7 +82,7 @@
     {
         "name":  "AI Blog Service",
         "url":  "https://blog-service-nupeeks.vercel.app",
-        "description":  "Recurring AI blog content subscription — $199/mo. Demo generates real posts. Topic suggestion chips by niche, word count display, meta char counter, Export .txt button, animated loading skeleton. Needs OpenAI key in Vercel env.",
+        "description":  "Recurring AI blog content subscription ï¿½ $199/mo. Demo generates real posts. Topic suggestion chips by niche, word count display, meta char counter, Export .txt button, animated loading skeleton. Needs OpenAI key in Vercel env.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -106,14 +106,14 @@
     {
         "name":  "Marvel Encyclopedia",
         "url":  "https://marvel-wiki-xi.vercel.app",
-        "description":  "Marvel character wiki with 40+ characters, Shorts Queue, team filters, Sort by Power, Random Character picker. Mar 16: Full SVG icon system — FilmIcon/CheckIcon on cards, SVG filter buttons (Zap/Film/Sort/Dice), SVG team icons replacing emojis on homepage.",
+        "description":  "Marvel character wiki with 40+ characters, Shorts Queue, team filters, Sort by Power, Random Character picker. Mar 16: Full SVG icon system ï¿½ FilmIcon/CheckIcon on cards, SVG filter buttons (Zap/Film/Sort/Dice), SVG team icons replacing emojis on homepage.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
         "added":  "2026-03-01"
     },
     {
         "name":  "Stoic Daily",
-        "url":  "https://stoic-app-one.vercel.app",
+        "url":  "https://stoic-app-psi.vercel.app",
         "description":  "Daily stoic quote app with 140 quotes, journal (word count, .md + .txt export), library (Random Quote, Twitter share, favorites), philosopher profiles, TTS, ambient audio, weekly challenge tracker. Today\u0027s Practice summary bar on homepage.",
         "category":  "Tools \u0026 Apps",
         "status":  "Live",
@@ -130,15 +130,15 @@
     {
         "name":  "PokeDex Supreme",
         "url":  "https://pokedex-supreme-nupeeks.vercel.app",
-        "description":  "Original Pokédex app — 1025 Pokémon, type filters, gen tabs, shiny mode, favorites, compare mode. SVG icons, sort dropdown. Mar 16: New hero section with gradient header, pokeball SVG icon, stat bar (1,025/9 Gens/18 Types/Compare), replaces blank page start.",
+        "description":  "Original Pokï¿½dex app ï¿½ 1025 Pokï¿½mon, type filters, gen tabs, shiny mode, favorites, compare mode. SVG icons, sort dropdown. Mar 16: New hero section with gradient header, pokeball SVG icon, stat bar (1,025/9 Gens/18 Types/Compare), replaces blank page start.",
         "category":  "Pokemon",
         "status":  "Live",
         "added":  "2026-03-01"
     },
     {
         "name":  "Who\u0027s That Pokemon?",
-        "url":  "https://pokemon-guess-nupeeks.vercel.app",
-        "description":  "Silhouette guessing game for all 1025 Pokemon. Daily + Classic modes, difficulty picker, streak counter on wins, Pokï¿½dex # + type display on reveal.",
+        "url":  "https://pokemon-guess-pearl.vercel.app",
+        "description":  "Silhouette guessing game for all 1025 Pokemon. Daily + Classic modes, difficulty picker, Hall of Fame. Mar 18: Full SVG icon system (CalendarIcon/DiceIcon/TrophyIcon/LeafIcon/BoltIcon/FlameIcon/VolumeIcon), How to Play modal, HelpIcon button in header.",
         "category":  "Pokemon",
         "status":  "Live",
         "added":  "2026-03-01"
@@ -572,7 +572,7 @@
     {
         "name":  "PokePortal v3",
         "url":  "https://pokedex-v3-nupeeks.vercel.app",
-        "description":  "Deep-violet Pokémon portal with 1025 Pokédex, Pokéopia game page, FireRed \u0026 LeafGreen page, dynamic news system with 8 articles, W\u0026W special Pikachus, and full redesigned homepage with violet/pink/teal palette.",
+        "description":  "Deep-violet Pokï¿½mon portal with 1025 Pokï¿½dex, Pokï¿½opia game page, FireRed \u0026 LeafGreen page, dynamic news system with 8 articles, W\u0026W special Pikachus, and full redesigned homepage with violet/pink/teal palette.",
         "category":  "Pokemon",
         "tags":  [
                      "pokemon",
